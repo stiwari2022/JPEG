@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.CC {
+	background-color: lightblue;
+	text-align: center;
+
+}
+.JS1 {
+	border: 5px outset blue;
+	background-color: lightblue;
+	text-align: left;
+}
+</style>
+<title>Collatz Conjecture</title>
+</head>
+<body>
+
+
+
+<div class="CC">
+	<h1> Collatz Conjecture </h1>
+</div>
+
+
+
+<div class="JS1">
+	<p id="GET"> </p>
+</div>
+
+
+
+
+
+<script>
+let Gate=11;
+document.getElementById("GET").innerHTML=Gate
+</script>
+</body>
+</html>
