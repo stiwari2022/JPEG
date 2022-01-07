@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h3>Collatz Conjecture</h3>
+    <input type="number" id="CC_Number_Input" placeholder="Enter Number" autocomplete="off">
+    <button id="b">Save</button>
+    <script>
+    const bn=document.getElementById("b");
+
+	bn.addEventListener('click', function() {
+  	var CC_Number=document.getElementById("CC_Number_Input").value;
+  	alert("Number: "+ CC_Number);});
+    </script>
+</body>
+</html>
