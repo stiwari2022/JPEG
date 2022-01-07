@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Hello Chub</title>
+</head>
+<body>
+<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h4>h4</h4>
+<h5>h5</h5>
+<h6>h6</h6>
+<hr>
+<p> Normal Text </p>
+<br>
+<br>
+<a href="https://www.chubb.com/us-en" target="_blank"> Chub </a>
+<img src="file:///Users/shantanu/Documents/Screen%20Shot%202022-01-04%20at%209.49.42%20PM.png" width="100" height="125" alt="Bing">
+<br>
+<p style="font-size:150%"> Chuble </p>
+<p style="text-align:center;"> Chubington </p>
+<blockquote cite="https://www.chubb.com/us-en/">
+Chubb
+</blockquote>
+</body>
+</html>
