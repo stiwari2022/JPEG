@@ -10,7 +10,7 @@
     <script>
     const bn=document.getElementById("b");
 
-	bn.addEventListener('click', function() {
+	bn.addEventListener("click", function() {
   	var CC_Number=document.getElementById("CC_Number_Input").value;
   	alert("Number: "+ CC_Number);});
     </script>
